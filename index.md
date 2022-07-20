@@ -5,5 +5,5 @@ hey there! i'm your local computer guy. i program in batch (if you call that a p
 
 -Discord: wjk4#8084
 
--Github: https://github.com/wjk4
+-Github: [https://github.com/wjk4](https://github.com/wjk4)
 
