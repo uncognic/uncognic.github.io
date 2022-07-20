@@ -5,4 +5,5 @@ this is, uh my site i guess. you could say there's some useful stuff. it's far f
  you could use normal windows.. but who does that?
 
 **1. [AtlasOS](atlasos.net) - the main OS that i use. i would definetly recommend it.**
+
 **2. [Fedora](getfedora.org) - a good daily driver linux distro
