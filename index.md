@@ -1,5 +1,5 @@
 # **wjk4**
-this is, uh my site i guess. you could say there's some useful stuff. it's far from complete, that's one thing i can say about it. [here's the source code for this site](https://github.com/wjk4/wjk4.github.io)
+hey there! i'm your local computer guy. i program in batch (if you call that a programming language) and i know a little bit of python.[here's the source code for this site](https://github.com/wjk4/wjk4.github.io)
 
 # **Good OS's / Linux Distros**
  you could use normal windows.. but who does that?
