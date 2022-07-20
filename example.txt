@@ -1,0 +1,6 @@
+# **Good OS's / Linux Distros**
+ you could use normal windows.. but who does that?
+
+**1. [AtlasOS](atlasos.net) - the main OS that i use. i would definetly recommend it.**
+
+**2. [Fedora](getfedora.org) - a good daily driver linux distro**
