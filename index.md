@@ -7,3 +7,4 @@ hey there! i'm your local computer guy. i program in batch (if you call that a p
 
 -Github: [https://github.com/wjk4](https://github.com/wjk4)
 
+E-mail: ilyas-naz@proton.me
