@@ -8,3 +8,8 @@ hey there! i'm your local computer guy. i program in batch (if you call that a p
 - Github: [https://github.com/wjk4](https://github.com/wjk4)
 
 - E-mail: ilyas-naz@proton.me
+
+# Links
+everything linked here is made by me.
+
+[w10-pro-kms](https://github.com/wjk4/w10-pro-kms)
