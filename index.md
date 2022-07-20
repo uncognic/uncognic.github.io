@@ -3,4 +3,4 @@ this is, uh my site i guess. you could say there's some useful stuff. it's far f
 
 # **QoL Windows ISO's**
 
-**1. [AtlasOS](atlasos.net) - the main OS that i use. i would definetly recommend it.
+**1. [AtlasOS](atlasos.net) - the main OS that i use. i would definetly recommend it.**
