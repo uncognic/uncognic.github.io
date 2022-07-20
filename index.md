@@ -3,8 +3,8 @@ hey there! i'm your local computer guy. i program in batch (if you call that a p
 
 # **Socials**
 
--Discord: wjk4#8084
+- Discord: wjk4#8084
 
--Github: [https://github.com/wjk4](https://github.com/wjk4)
+- Github: [https://github.com/wjk4](https://github.com/wjk4)
 
-E-mail: ilyas-naz@proton.me
+- E-mail: ilyas-naz@proton.me
