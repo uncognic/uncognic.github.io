@@ -21,6 +21,6 @@ everything linked here is made by me.
   
   
   
-<h1 align="center">
+<align="center">
  as you can see, i am by no means a web designer
 <h1>
