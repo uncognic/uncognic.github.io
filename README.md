@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  wjk4.github.io
+  kryxzz.github.io
   <br>
 </h1>
 
