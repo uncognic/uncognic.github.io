@@ -13,8 +13,6 @@ hey there! i'm your local computer guy. i program in batch (if you call that a p
 
   **[w10-pro-kms](https://github.com/wjk4/w10-pro-kms)**
   
-  **[kms-deactivator](https://github.com/kryxzz/kms-deactivator)**
-  
   **[what happened to heavenos?](https://github.com/wjk4/HeavenOS-ARCHIVED)**
   
   
