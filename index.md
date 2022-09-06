@@ -15,7 +15,7 @@ hey there! i'm your local computer guy. i program in batch (if you call that a p
   
   **[kms-deactivator](https://github.com/kryxzz/kms-deactivator)**
   
-  **[What happened to HeavenOS?](https://github.com/wjk4/HeavenOS-ARCHIVED)**
+  **[what happened to heavenos?](https://github.com/wjk4/HeavenOS-ARCHIVED)**
   
   
   
