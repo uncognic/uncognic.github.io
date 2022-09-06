@@ -3,11 +3,11 @@ hey there! i'm your local computer guy. i program in batch (if you call that a p
 
 # **Socials**
 
-- Discord: kryxzz#8084
+- Discord: 𝕜𝕣𝕪𝕩𝕫𝕫#8084
 
 - Github: [https://github.com/kryxzz](https://github.com/kryxzz)
 
-- E-mail: ilyas-naz@proton.me
+- E-mail: 5881660@gmail.com
 
 # Links
 
