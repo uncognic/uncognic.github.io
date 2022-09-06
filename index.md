@@ -11,7 +11,7 @@ hey there! i'm your local computer guy. i program in batch (if you call that a p
 
 # Links
 
-  **[w10-pro-kms](https://github.com/wjk4/w10-pro-kms)**
+  **[kms-tool](https://github.com/wjk4/w10-pro-kms)**
   
   **[what happened to heavenos?](https://github.com/wjk4/HeavenOS-ARCHIVED)**
   
