@@ -9,7 +9,7 @@ hey there! i'm your local computer guy. i program in batch (if you call that a p
 
 - e-mail: 5881660@gmail.com
 
-- twitter: @kryxzz_
+- twitter: [https://twitter.com/kryxzz_](@kryxzz_)
 
 # links
 
