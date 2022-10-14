@@ -5,7 +5,7 @@ hey there! i'm your local computer guy. i program in batch (if you call that a p
 
 - discord: kryxzz#5044
 
-- github: [https://github.com/kryxzz](https://github.com/kryxzz)
+- github: [https://github.com/kryxzz](kryxzz)
 
 - e-mail: 5881660@gmail.com
 
