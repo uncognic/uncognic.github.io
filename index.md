@@ -9,6 +9,8 @@ hey there! i'm your local computer guy. i program in batch (if you call that a p
 
 - e-mail: 5881660@gmail.com
 
+- twitter: @kryxzz_
+
 # links
 
   **[kms-tool](https://github.com/wjk4/w10-pro-kms)**
