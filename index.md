@@ -1,5 +1,5 @@
-# home | [kyxzz.github.io](prefer caps?)
-hey there! i'm your local computer guy. i program in batch (if you call that a programming language) and i know a little bit of python. and as you can see, i am by no means a web designer. [here's the source code for this site](https://github.com/wjk4/wjk4.github.io)
+# **home**
+hey there! i'm your local computer guy. i program in batch (if you call that a programming language) and i know a little bit of python. and as you can see, i am by no means a web designer. [here's the source code for this site](https://github.com/wjk4/wjk4.github.io) **[kryxzz.github.io/caps](prefer caps?)
 
 # **socials**
 
