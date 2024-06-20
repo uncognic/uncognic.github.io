@@ -1,5 +1,5 @@
 # **home | [prefer caps?](https://uncognic.github.io/caps)**
-hey there! i'm ilyas. i know quite a bit about windows and i know a little bit of python. and as you can see, i am by no means a web designer. [here's the source code for this site](https://github.com/wjk4/wjk4.github.io)
+hey there! i'm ilyas. i know quite a bit about windows and i know a little bit of python. and as you can see, i am by no means a web designer. [here's the repo code for this site](https://github.com/wjk4/wjk4.github.io)
 
 # **socials**
 
