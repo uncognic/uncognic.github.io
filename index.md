@@ -16,7 +16,7 @@ hi, i'm uncognic. i know quite a bit about windows and linux (i use arch btw) an
 # **stuff**
 
 - [slowroads mirror](https://uncognic.github.io/slowroads/)
-</sub>old version</sub>
+</sup></sub>old version</sub></sup>
 
 
 
