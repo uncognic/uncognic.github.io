@@ -1,3 +1,10 @@
+---
+title: uncognic's site
+---
+
+# Index Page Content
+
+
 # **home**
 hey there! i'm uncognic. i know quite a bit about windows and i know a little bit of python. and as you can see, i am by no means a web designer ([theme](https://github.com/pages-themes/hacker))
 
