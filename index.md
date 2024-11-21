@@ -2,7 +2,6 @@
 title: uncognic's site
 ---
 
-# Index Page Content
 
 
 # **home**
