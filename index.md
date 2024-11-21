@@ -5,7 +5,7 @@ title: uncognic's site
 
 
 # **home**
-hi, i'm uncognic. i know quite a bit about windows and linux (i use arch btw) and i know a little bit of python. as you can see, i am by no means a web designer either lol([theme](https://github.com/pages-themes/hacker))
+hi, i'm uncognic. i know quite a bit about windows and linux (i use arch btw) and i know a little bit of python. as you can see, i am by no means a web designer either lol ([theme](https://github.com/pages-themes/hacker))
 
 # **socials**
 
