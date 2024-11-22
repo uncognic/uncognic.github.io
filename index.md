@@ -10,9 +10,7 @@ hi, i'm uncognic. i know quite a bit about windows and linux (i use arch btw) an
 # **socials**
 
 - discord: uncognic
-
 - github: [uncognic](https://github.com/uncognic)
-  
 - e-mail: dolls.beaked.0w@icloud.com (random ahh icloud hide my email)
 
 # **stuff**
