@@ -17,7 +17,8 @@ hi, i'm uncognic. i know quite a bit about windows and linux (i use arch btw) an
 
 # **stuff**
 
-- [slowroads instance (old version)](https://uncognic.github.io/slowroads/) 
+- [slowroads - alternative instance, old version](https://uncognic.github.io/slowroads/)
+- [postinstall - script and config files for arch post-install](https://github.com/uncognic/postinstall)
   
 
 
