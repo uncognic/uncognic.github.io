@@ -6,6 +6,12 @@ title: unblocked stuff
 
 # **home**
 - [skipper's unblocked games](https://skipperskippeskap.neocities.org/)
+- [eaglercraft 1.8.8](https://uncognic.github.io/eaglercraft/eaglercraftx1.8.8.html)
+- [eaglercraft 1.5.2](https://uncognic.github.io/eaglercraft/1.5.2/index.html)
+- [eaglercraft beta 1.7.3](https://uncognic.github.io/eaglercraft/eaglercraftbeta1.7.3.html)
+- [eaglercraft beta 1.3](https://uncognic.github.io/eaglercraft/eaglercraftbeta1.3.html)
+- [eaglercraft alpha 1.2.6](https://uncognic.github.io/eaglercraft/eaglercraftalpha1.2.6.html)
+- [eaglercraft indev](https://uncognic.github.io/eaglercraft/eaglercraftindev.html)
 - [eaglercraft - skipper's instance](https://skipperskippeskap.neocities.org/games/block)
 - [the henry stickmin collection - skipper's instance](https://skipperskippeskap.neocities.org/games/henrystickmincollection)
 - [slowroads - alternative instance, old version](https://uncognic.github.io/slowroads/)
