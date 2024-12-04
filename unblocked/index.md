@@ -5,6 +5,7 @@ title: unblocked stuff
 
 
 # **home**
+- [slope](https://uncognic.github.io/slope/index.html)
 - [skipper's unblocked games](https://skipperskippeskap.neocities.org/)
 - [chromium dino](https://uncognic.github.io/chromium-dino/)
 - [cookie clicker - old version](https://uncognic.github.io/cookie-clicker/)
