@@ -7,6 +7,7 @@ title: unblocked stuff
 # **home**
 - [slope](https://uncognic.github.io/slope/index.html)
 - [skipper's unblocked games](https://skipperskippeskap.neocities.org/)
+- [drive mad](https://uncognic.github.io/drive-mad/index.html)
 - [chromium dino](https://uncognic.github.io/chromium-dino/)
 - [cookie clicker - old version](https://uncognic.github.io/cookie-clicker/)
 - [eaglercraft 1.8.8](https://uncognic.github.io/eaglercraft/eaglercraftx1.8.8.html)
