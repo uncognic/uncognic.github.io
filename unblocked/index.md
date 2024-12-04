@@ -6,6 +6,7 @@ title: unblocked stuff
 
 # **home**
 - [skipper's unblocked games](https://skipperskippeskap.neocities.org/)
+- [cookie clicker - old version](https://uncognic.github.io/cookie-clicker/)
 - [eaglercraft 1.8.8](https://uncognic.github.io/eaglercraft/eaglercraftx1.8.8.html)
 - [eaglercraft 1.5.2](https://uncognic.github.io/eaglercraft/1.5.2/index.html)
 - [eaglercraft beta 1.7.3](https://uncognic.github.io/eaglercraft/eaglercraftbeta1.7.3.html)
