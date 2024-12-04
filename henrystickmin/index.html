@@ -1,22 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-  <meta charset="UTF-8">
-  <head>
-    <title>Ruffle Dynamic Player</title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breaking the Bank - Ruffle Example</title>
+    <script src="../ruffle/ruffle.js"></script>
+    <script>
+        window.RufflePlayer = window.RufflePlayer || null;
+        window.addEventListener("load", async () => {
+            const ruffle = window.RufflePlayer.newest();
+            const player = ruffle.createPlayer();
+            document.getElementById("flash-content").appendChild(player);
+            player.load("breakingthebank.swf"); // Update with the correct path to your SWF file
+        });
+    </script>
     <style>
-      * {
-        margin: 0;
-      }
-      :root, body, object {
-        width: 100%;
-        height: 100%;
-        overflow: hidden;
-      }
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        #flash-content {
+            width: 800px; /* Adjust width as needed */
+            height: 600px; /* Adjust height as needed */
+            border: 1px solid #ccc;
+            background-color: #fff;
+        }
     </style>
-    <script src="ruffle.js"> </script>
-    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
-    <script src="ruffle.js"> </script>
-  </head>
-  <body>
-  </body>
+</head>
+<body>
+    <h1>Breaking the Bank</h1>
+    <div id="flash-content"></div>
+</body>
 </html>
