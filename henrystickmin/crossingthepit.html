@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Henry Stickmin - Crossing The Pit</title>
+    <script src="../ruffle/ruffle.js"></script>
+    <script>
+        window.RufflePlayer = window.RufflePlayer || null;
+        window.addEventListener("load", async () => {
+            const ruffle = window.RufflePlayer.newest();
+            const player = ruffle.createPlayer();
+            document.getElementById("flash-content").appendChild(player);
+            player.load("flash_crossingthepit.swf"); // Update with the correct path to your SWF file
+        });
+    </script>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        #flash-content {
+            width: 1280px; /* Adjust width as needed */
+            height: 720px; /* Adjust height as needed */
+            border: 1px solid #ccc;
+            background-color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Breaking the Bank</h1>
+    <div id="flash-content"></div>
+</body>
+</html>
