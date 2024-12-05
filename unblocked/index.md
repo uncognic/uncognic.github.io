@@ -6,6 +6,11 @@ title: unblocked stuff
 
 # **home**
 - [slope](https://uncognic.github.io/slope/index.html)
+- [wall of doom](https://uncognic.github.io/flash/wall-of-doom/index.html)
+- [zuma](https://uncognic.github.io/flash/zuma/index.html)
+- [henry stickmin - escaping the prison](https://uncognic.github.io/henrystickmin/escapingtheprison.html)
+- [henry stickmin - crossing the pit](https://uncognic.github.io/henrystickmin/flash_crossingthepit.html)
+- [henry stickmin - stealing the diamond (may not work)](https://uncognic.github.io/henrystickmin/stealingthediamondgame.html)
 - [skipper's unblocked games](https://skipperskippeskap.neocities.org/)
 - [drive mad](https://uncognic.github.io/drive-mad/index.html)
 - [chromium dino](https://uncognic.github.io/chromium-dino/)
