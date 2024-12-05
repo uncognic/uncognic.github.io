@@ -4,7 +4,7 @@ title: unblocked stuff
 
 
 
-# **home**
+# **games**
 - [slope](https://uncognic.github.io/slope/index.html)
 - [vectoid](https://uncognic.github.io/vectoid/)
 - [wall of doom](https://uncognic.github.io/flash/wall-of-doom/index.html)
@@ -26,9 +26,11 @@ title: unblocked stuff
 - [the henry stickmin collection - skipper's instance](https://skipperskippeskap.neocities.org/games/henrystickmincollection)
 - [slowroads - alternative instance, old version](https://uncognic.github.io/slowroads/)
 - [snow rider 3d - alternative instance](https://uncognic.github.io/m/)
+
+
+# **proxies**
 - [interstellar proxy - instance](https://k-sand.vercel.app)
 - [equinox proxy - instance (not recommended as it doesn't do about:blank masking)](https://l-tawny-chi.vercel.app)
-  
 
 
 
