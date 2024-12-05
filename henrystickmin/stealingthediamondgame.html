@@ -4,14 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Henry Stickmin - Stealing The Diamond</title>
-    <script src="../ruffle/ruffle.js"></script>
+    <script src="https://uncognic.github.io/ruffle/ruffle.js"></script>
     <script>
         window.RufflePlayer = window.RufflePlayer || null;
         window.addEventListener("load", async () => {
             const ruffle = window.RufflePlayer.newest();
             const player = ruffle.createPlayer();
+            player.setAttribute("width", "1280"); // Set width
+            player.setAttribute("height", "720"); // Set height
             document.getElementById("flash-content").appendChild(player);
-            player.load("stealingthediamondgame.swf"); // Update with the correct path to your SWF file
+            await player.load("stealingthediamondgame.swf"); // Update with the correct path to your SWF file
         });
     </script>
     <style>
