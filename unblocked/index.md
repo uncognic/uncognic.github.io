@@ -14,14 +14,14 @@ title: unblocked stuff
 - [drive mad](https://uncognic.github.io/drive-mad/index.html)
 - [chromium dino](https://uncognic.github.io/chromium-dino/)
 - [cookie clicker - old version](https://uncognic.github.io/cookie-clicker/)
-# eaglercraft
+### eaglercraft
 - [eaglercraft 1.8.8](https://uncognic.github.io/eaglercraft/eaglercraftx1.8.8.html)
 - [eaglercraft 1.5.2](https://uncognic.github.io/eaglercraft/1.5.2/index.html)
 - [eaglercraft beta 1.7.3](https://uncognic.github.io/eaglercraft/eaglercraftbeta1.7.3.html)
 - [eaglercraft beta 1.3](https://uncognic.github.io/eaglercraft/eaglercraftbeta1.3.html)
 - [eaglercraft alpha 1.2.6](https://uncognic.github.io/eaglercraft/eaglercraftalpha1.2.6.html)
 - [eaglercraft indev](https://uncognic.github.io/eaglercraft/eaglercraftindev.html)
-# henry stickmin
+### henry stickmin
 - [henry stickmin - escaping the prison](https://uncognic.github.io/henrystickmin/escapingtheprison.html)
 - [henry stickmin - crossing the pit](https://uncognic.github.io/henrystickmin/flash_crossingthepit.html)
 - [henry stickmin - stealing the diamond (may not work)](https://uncognic.github.io/henrystickmin/stealingthediamondgame.html)
