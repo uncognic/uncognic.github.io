@@ -10,8 +10,10 @@
         window.addEventListener("load", async () => {
             const ruffle = window.RufflePlayer.newest();
             const player = ruffle.createPlayer();
+            player.setAttribute("width", "1280"); // Set width
+            player.setAttribute("height", "720"); // Set height
             document.getElementById("flash-content").appendChild(player);
-            player.load("escapingtheprisongame.swf"); // Update with the correct path to your SWF file
+            await player.load("escapingtheprison.swf"); // Update with the correct path to your SWF file
         });
     </script>
     <style>
@@ -33,7 +35,7 @@
     </style>
 </head>
 <body>
-    <h1>Breaking the Bank</h1>
+    <h1>Escaping The Prison</h1>
     <div id="flash-content"></div>
 </body>
 </html>
