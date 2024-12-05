@@ -6,6 +6,7 @@ title: unblocked stuff
 
 # **home**
 - [slope](https://uncognic.github.io/slope/index.html)
+- [vectoid](https://uncognic.github.io/vectoid/)
 - [wall of doom](https://uncognic.github.io/flash/wall-of-doom/index.html)
 - [zuma](https://uncognic.github.io/flash/zuma/index.html)
 - [henry stickmin - escaping the prison](https://uncognic.github.io/henrystickmin/escapingtheprison.html)
