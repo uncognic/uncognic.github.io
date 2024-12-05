@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+  <head> 
+    <link rel="stylesheet" href="style.css"> 
+    <script src="./Build/UnityProgress.js"></script>
+    <script src="./Build/Unityloader.js"></script>
+    <title>Survival Craft</title>
+    <link rel="icon" href="favicon.png" />
+    <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  </head>
+  <body>
+  <script> var gameInstance = UnityLoader.instantiate("gameContainer", "./Build/SurvivalCraft.json", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(gameInstance, "complete")}}}); </script> 
+  <div class="webgl-content"> <div id="gameContainer" style="width: 100vw; height: 100vh"></div> </div>
+  </body>
+</html>
+
