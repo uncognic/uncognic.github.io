@@ -24,8 +24,7 @@ title: unblocked stuff
 ### henry stickmin
 - [henry stickmin - escaping the prison](https://uncognic.github.io/henrystickmin/escapingtheprison.html)
 - [henry stickmin - crossing the pit](https://uncognic.github.io/henrystickmin/flash_crossingthepit.html)
-- [henry stickmin - stealing the diamond (may not work)](https://uncognic.github.io/henrystickmin/stealingthediamondgame.html)
-- 
+- [henry stickmin - stealing the diamond (may not work, i still have to figure out why it isnt loading)](https://uncognic.github.io/henrystickmin/stealingthediamondgame.html)
 # **proxies**
 - [interstellar proxy - instance](https://k-sand.vercel.app)
 - [equinox proxy - instance (not recommended as it doesn't do about:blank masking)](https://l-tawny-chi.vercel.app)
