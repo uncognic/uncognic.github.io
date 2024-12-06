@@ -14,6 +14,7 @@ title: unblocked stuff
 - [drive mad](https://uncognic.github.io/drive-mad/index.html)
 - [chromium dino](https://uncognic.github.io/chromium-dino/)
 - [cookie clicker - old version](https://uncognic.github.io/cookie-clicker/)
+- [survival craft](https://uncognic.github.io/survivalcraft/)
 ### eaglercraft
 - [eaglercraft 1.8.8](https://uncognic.github.io/eaglercraft/eaglercraftx1.8.8.html)
 - [eaglercraft 1.5.2](https://uncognic.github.io/eaglercraft/1.5.2/index.html)
