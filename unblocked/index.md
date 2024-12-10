@@ -15,6 +15,7 @@ title: unblocked stuff
 - [chromium dino](https://uncognic.github.io/chromium-dino/)
 - [cookie clicker - old version](https://uncognic.github.io/cookie-clicker/)
 - [survival craft](https://uncognic.github.io/survivalcraft/)
+- [super fowlst](https://uncognic.github.io/super-fowlist/)
   
 ### eaglercraft
 - [eaglercraft 1.8.8](https://uncognic.github.io/eaglercraft/eaglercraftx1.8.8.html)
