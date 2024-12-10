@@ -16,6 +16,7 @@ title: unblocked stuff
 - [cookie clicker - old version](https://uncognic.github.io/cookie-clicker/)
 - [survival craft](https://uncognic.github.io/survivalcraft/)
 - [super fowlst](https://uncognic.github.io/super-fowlist/)
+- [speed king](https://uncognic.github.io/speed-king/)
   
 ### eaglercraft
 - [eaglercraft 1.8.8](https://uncognic.github.io/eaglercraft/eaglercraftx1.8.8.html)
