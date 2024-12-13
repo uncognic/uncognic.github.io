@@ -6,6 +6,7 @@ title: unblocked stuff
 
 # **games hosted by me**
 - [slope](https://uncognic.github.io/slope/index.html)
+- [monkey mart](https://uncognic.github.io/monkey-mart/monkeymart.html)
 - [vectoid](https://uncognic.github.io/vectoid/)
 - [slimey jump](https://uncognic.github.io/slimey-jump)
 - [wall of doom](https://uncognic.github.io/flash/wall-of-doom/index.html)
