@@ -7,6 +7,7 @@ title: unblocked stuff
 # **games hosted by me**
 - [slope](https://uncognic.github.io/slope/index.html)
 - [vectoid](https://uncognic.github.io/vectoid/)
+- [slimey jump](https://uncognic.github.io/slimey-jump)
 - [wall of doom](https://uncognic.github.io/flash/wall-of-doom/index.html)
 - [zuma](https://uncognic.github.io/flash/zuma/index.html)
 - [slowroads - alternative instance, old version](https://uncognic.github.io/slowroads/)
