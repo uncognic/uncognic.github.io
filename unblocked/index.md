@@ -6,6 +6,7 @@ title: unblocked stuff
 
 # **games hosted by me**
 - [plants vs zombies](https://uncognic.github.io/pvz)
+- [2048](https://uncognic.github.io/2048)
 - [slope](https://uncognic.github.io/slope/index.html)
 - [monkey mart](https://uncognic.github.io/monkey-mart/monkeymart.html)
 - [vectoid](https://uncognic.github.io/vectoid/)
